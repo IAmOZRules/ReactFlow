@@ -1,2 +1,2 @@
 # ReactFlow
-A chatbot built using Google's DialogFlow and React!
+A chatbot created using Google's DialogFlow, React.js and Node.js!
